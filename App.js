@@ -13,7 +13,7 @@ const ingredientSection = document.getElementById("ingredients");
 const stepsSection = document.getElementById("steps");
 const equipmentSection = document.getElementById("equipment");
 const recipeSection = document.getElementById("recipe-section");
-const apiKey = "bcc405d8205e4b73acf3c4069860e297";
+const apiKey = "a1dd2daa16304f5fbeace61a0cf82903";
 
 const getCalorie = () => {
     let height = heightInput.value;
